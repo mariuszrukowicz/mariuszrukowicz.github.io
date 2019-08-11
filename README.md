@@ -1,1 +1,0 @@
-# mariuszrukowicz.github.io
