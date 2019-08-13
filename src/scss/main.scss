@@ -23,6 +23,9 @@ body {
   background: #ffffff;
   font-family: 'Poppins', sans-serif;
   border: 16px solid $big-Stone;
+  @media (max-width:$mobile ) {
+    border: none;
+  }
 }
 .container{
   max-width: 1216px;
